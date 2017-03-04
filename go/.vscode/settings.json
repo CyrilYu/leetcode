@@ -1,0 +1,19 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "go.buildOnSave": true,
+    "go.lintOnSave": true,
+    "go.vetOnSave": true,
+    "go.buildTags": "",
+    "go.buildFlags": [],
+    "go.lintTool": "golint",
+    "go.lintFlags": [],
+    "go.vetFlags": [],
+    "go.coverOnSave": false,
+    "go.useCodeSnippetsOnFunctionSuggest": false,
+    "go.formatOnSave": true, 
+    "go.formatTool": "goreturns",
+    "go.formatFlags": [],
+    "go.goroot": "/Users/cyril_yu/.gvm/gos/go1.8",
+    "go.gopath": "/Users/cyril_yu/self_pickup/leetcode/go",
+    "go.gocodeAutoBuild": false
+}
